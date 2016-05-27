@@ -1,5 +1,5 @@
 # firstPro
-gitHub入门123213
+gitHub入门
 
 homePage
     http://aty1990.github.io/firstPro
